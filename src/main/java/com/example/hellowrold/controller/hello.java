@@ -11,6 +11,6 @@ public class hello {
     @GetMapping("")
     public String hello(){
         System.out.println("hello java");
-        return "ok。。。";
+        return "ok。。。。。。=====";
     }
 }
